@@ -87,6 +87,20 @@ body {
   margin-top: 1rem;
   font-size: 1.3rem;
 }
+
+.main-exp{
+  height: 40vh;
+  width: 100%;
+}
+.exp-title{
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+}
+.exp-img{
+  margin-top: 2rem;
+  height: 7.6rem;
+}
 /* ------------------------------------------Main End------------------------------------ */
 
 /* ------------------------------------------Footer Start------------------------------------ */
